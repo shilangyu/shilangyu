@@ -4,4 +4,4 @@
 - ✍️ Hacking in `main.{ts, tsx, rs, go, py}`
 - 🌱 Currently learning Rust
 - 💬 Ask me why I use Golang when I hate it
-- 🍿 Watching Euphoria (87.5% done)
+- 🍿 Watching Euphoria
