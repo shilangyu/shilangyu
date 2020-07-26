@@ -3,5 +3,5 @@
 - 🔭 Currently working on a Convolutional Neural Networks from scratch
 - ✍️ Hacking in `main.{ts, tsx, rs, go, py}`
 - 🌱 Currently learning Rust and Julia
-- 💬 Ask me why I use Golang when I hate it
-- 🍿 Currently watching Euphoria
+- 💬 Ask me about Pokémon
+- 🍿 Currently watching \<help fill this gap>
