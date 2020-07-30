@@ -4,4 +4,4 @@
 - ✍️ Hacking in `main.{ts, tsx, rs, go, py}`
 - 🌱 Currently learning Rust and Julia
 - 💬 Ask me about Pokémon
-- 🍿 Currently watching \<help fill this gap>
+- 🍿 Currently watching Breaking Bad
