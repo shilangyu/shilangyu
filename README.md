@@ -1,7 +1,7 @@
 ### Yes hello ❤️
 
-- 🔭 Currently working on a Convolutional Neural Network from scratch
-- ✍️ Hacking in `main.{ts, tsx, rs, go, py}`
-- 🌱 Currently learning Rust, Julia, and Dart
+- 🔭 Currently working on a [Lemmy](https://github.com/LemmyNet/lemmy) client
+- ✍️ Hacking in `main.{ts,tsx,rs,go,py,dart}`
+- 🌱 Currently learning Rust and Julia
 - 💬 Ask me about Pokémon
-- 🍿 Currently watching Breaking Bad
+- 🍿 Currently watching \<help me fill this blank>
