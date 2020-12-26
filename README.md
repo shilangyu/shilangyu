@@ -6,3 +6,4 @@
 - 🌱 Currently learning Rust and Julia
 - 💬 Ask me about Pokémon
 - 🍿 Currently watching \<help me fill this gap>
+- 🤖 Soon to be cyborg
