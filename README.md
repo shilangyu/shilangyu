@@ -1,9 +1,8 @@
 ### Yes hello ❤️
 
-- 🎅 [Having fun](https://github.com/shilangyu/AoC-2020) with Advent of Code
-- 🔭 Currently working on a [Lemmy](https://github.com/LemmyNet/lemmy) client
+- 🔭 Interested in programming language design
 - ✍️ Hacking in `main.{ts,tsx,rs,go,py,dart}`
-- 🌱 Currently learning Ocaml and Julia
+- 🌱 Currently learning Ocaml, Julia, Kotlin, and Swift
 - 💬 Ask me about Pokémon
-- 🍿 Currently watching \<help me fill this gap>
-- 🤖 Soon to be cyborg
+- 🍿 Currently finishing Better Call Saul
+- 🔜 Effect systems is the future
