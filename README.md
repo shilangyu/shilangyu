@@ -1,18 +1,17 @@
 ### Yes hello ❤️
 
-- 🎅 [Having fun](https://github.com/shilangyu/AoC-2023) with Advent of Code in Lean and Koka
 - 🔭 Interested in programming language design
-- ✍️ Hacking in `main.{ts,tsx,rs,jl,go,py,dart}`
-- 🌱 Currently learning Ocaml, Koka, Scala, and Swift
+- ✍️ Hacking in `main.{ts,tsx,rs,jl,go,py,dart,kk}`
+- 🌱 Currently learning Lean, Scala, and Swift
 - 💬 Ask me about Pokémon
 - 🔜 Effect systems is the future
 - 🤖 Soon to be a cyborg
 
 #### Writing
 
-- [Solving balanced parentheses problem using Dart's type system](https://shilangyu.dev/balanced-parentheses-dart-3/) ([repo](https://github.com/shilangyu/balanced-parentheses-dart-3))
-- [SVMs explained](https://shilangyu.dev/SVM-from-scratch/) ([repo](https://github.com/shilangyu/SVM-from-scratch))
-- [University notes](https://shilangyu.dev/uni-notes/) ([repo](https://github.com/shilangyu/uni-notes))
+- [Solving balanced parentheses problem using Dart's type system](https://shilangyu.dev/blog/balanced-parentheses-dart-3/) ([repo](https://github.com/shilangyu/balanced-parentheses-dart-3))
+- [SVMs explained](https://shilangyu.dev/blog/svm-explained/) ([repo](https://github.com/shilangyu/SVM-from-scratch))
+- [University notes](https://github.shilangyu.dev/uni-notes/) ([repo](https://github.com/shilangyu/uni-notes))
 
 #### Nerdy projects
 
