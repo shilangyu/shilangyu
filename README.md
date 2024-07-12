@@ -1,6 +1,6 @@
 ### Yes hello ❤️
 
-- 🔭 Interested in programming language design
+- 🔭 Interested in programming language theory
 - ✍️ Hacking in `main.{ts,tsx,rs,jl,go,py,dart,kk}`
 - 🌱 Currently learning Lean, Coq, Scala, and Swift
 - 💬 Ask me about Pokémon
