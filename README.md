@@ -1,5 +1,6 @@
 ### Yes hello ❤️
 
+- 🎅 [Having fun with Advent of Code by coding proofs](https://github.com/shilangyu/AoC-2024)
 - 🔭 Interested in programming language theory
 - ✍️ Hacking in `main.{ts,tsx,rs,jl,go,py,dart,kk}`
 - 🌱 Currently learning Lean, Coq, Scala, and Swift
