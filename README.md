@@ -2,11 +2,10 @@
 
 - 🎅 [Having fun with Advent of Code by coding proofs](https://github.com/shilangyu/AoC-2024)
 - 🔭 Interested in programming language theory
-- ✍️ Hacking in `main.{ts,tsx,rs,jl,go,py,dart,kk}`
-- 🌱 Currently learning Lean, Coq, Scala, and Swift
+- ✍️ Hacking in `main.{ts,tsx,rs,jl,go,py,dart,kk,v,lean}`
+- 🌱 Currently learning Scala and Swift
 - 💬 Ask me about Pokémon
 - 🔜 Effect systems is the future
-- 🤖 Soon to be a cyborg
 
 #### Writing
 
