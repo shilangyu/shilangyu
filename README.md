@@ -12,6 +12,7 @@
 
 - [Linear-time lookarounds in `rust/regex`](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
 - [Solving balanced parentheses problem using Dart's type system](https://shilangyu.dev/blog/balanced-parentheses-dart-3/) ([repo](https://github.com/shilangyu/balanced-parentheses-dart-3))
+- [Hacking variance](https://shilangyu.dev/blog/variance-hacking/) ([repo](https://github.com/shilangyu/dart-variance-hack))
 - [SVMs explained](https://shilangyu.dev/blog/svm-explained/) ([repo](https://github.com/shilangyu/SVM-from-scratch))
 - [University notes](https://github.shilangyu.dev/uni-notes/) ([repo](https://github.com/shilangyu/uni-notes))
 
